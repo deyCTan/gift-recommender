@@ -1,2 +1,2 @@
-# stock-price-prediction
-stock-price-prediction
+# gift-recommender
+gift-recommender
